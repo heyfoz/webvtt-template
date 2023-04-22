@@ -1,0 +1,14 @@
+WEBVTT
+NOTE 
+Web Video Text Tracks (WebVTT / .vtt) files use the file header "WEBVTT". 
+The identifier "NOTE" is used to insert comments, which are ignored by WebVTT player and are not displayed on the video. 
+The standard format is dd:hh:mm.ttt (t representing one millisecond digit). 
+--> is the time marker between each closed caption start and end. 
+00:00:00.000 --> 00:00:03.000
+Welcome! These are the first 3 seconds.
+
+00:00:03.001 --> 00:00:13.000
+This text is displayed for 10 seconds. 
+
+00:00:13.001 --> 00:00:30.000
+And now let's hang out for 17 more seconds :) Thanks for stopping by!
