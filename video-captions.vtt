@@ -1,4 +1,5 @@
 WEBVTT
+
 NOTE 
 Web Video Text Tracks (WebVTT / .vtt) files use the file header "WEBVTT". 
 The identifier "NOTE" is used to insert comments, which are ignored by WebVTT player and are not displayed on the video. 
